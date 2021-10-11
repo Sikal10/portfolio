@@ -3,7 +3,7 @@ import codeSikal from "../public/images/codeSikal.svg";
 
 const About = () => {
     return (
-        <main className={"flex relative overflow-y-scroll flex-col md:flex-row h-[81vh] "}>
+        <main className={"flex relative overflow-y-scroll scrollbar-hide flex-col md:flex-row h-[81vh] "}>
             {/*left*/}
             <section className={"hidden md:flex flex-1 flex items-center justify-center"}>
                 <div className={"w-[70%] h-[70%] relative"} >
