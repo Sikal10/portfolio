@@ -28,25 +28,5 @@ export const projects = [
         id: 6,
         img:"/images/devspace.png",
         link: "https://devblog-iota.vercel.app/blog"
-    },{
-        id: 6,
-        img:"/images/devspace.png",
-        link: "https://devblog-iota.vercel.app/blog"
-    },{
-        id: 6,
-        img:"/images/devspace.png",
-        link: "https://devblog-iota.vercel.app/blog"
-    },{
-        id: 6,
-        img:"/images/devspace.png",
-        link: "https://devblog-iota.vercel.app/blog"
-    },{
-        id: 6,
-        img:"/images/devspace.png",
-        link: "https://devblog-iota.vercel.app/blog"
-    },{
-        id: 6,
-        img:"/images/devspace.png",
-        link: "https://devblog-iota.vercel.app/blog"
-    },
+    }
 ]
