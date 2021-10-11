@@ -33,7 +33,7 @@ const Contact = () => {
 
             {/*right*/}
             <section className={"flex-1"}>
-                <article className={"space-y-2 md:mt-28 mt-24 p-5 md:p-10 lg:p-0"}>
+                <article className={"space-y-2 md:mt-28 mt-12 p-5 md:p-10 lg:p-0"}>
                     <h3 className={"lg:text-[3.5vw] md:text-[4vw] text-4xl font-serif font-bold tracking-wider dark:text-[#e3e3e5] text-[#66697e]"}>GET<span
                         className={"text-[#57a3e4]"}>IN</span>TOUCH</h3>
                     {/* eslint-disable-next-line react/no-unescaped-entities */}

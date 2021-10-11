@@ -1,20 +1,6 @@
 import Particles from "react-particles-js";
 
 const ParticlesJs = () => {
-    const particleOptions = {
-        particles: {
-            number: {
-                value: 20,
-                density: {
-                    enable: true,
-                    value_area: 200
-                }
-            },
-            color: {
-                value: '#cb68bc'
-            },
-        }
-    }
 
     const particlesParam = {
         particles: {
@@ -22,7 +8,7 @@ const ParticlesJs = () => {
                 value: '#778899'
             },
             "number": {
-                "value": 75,
+                "value": 60,
                 "density": {
                     "enable": false
                 }

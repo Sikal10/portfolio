@@ -4,7 +4,7 @@ const Title = ({title}) => {
     return (
         <Head>
             <title>{title}</title>
-            <meta name="description" content="portfolio-sikal10.vercel.app"/>
+            <meta name="description" content="Sikal's personal portfolio website"/>
             <link rel="icon" href="/favicon.png"/>
         </Head>
     );

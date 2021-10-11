@@ -9,7 +9,7 @@ import Title from "../components/Title";
 function MyApp({ Component, pageProps }) {
 
   return <>
-    <Title title={"Code Sikal | Full-Stack Developer"} />
+    <Title title={"Sikal | Full-Stack Developer"} />
     <ParticlesJs />
     <main className={"dark:bg-black h-screen overflow-hidden z-10"}>
       <ToastContainer />
