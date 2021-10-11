@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
         <section className={"md:flex items-center bg-[#4c4f65] dark:bg-[#15151e] mt-1 md:justify-between relative"}>
             <div onClick={toggleDarkMode} className={"hidden md:flex"}>
-                {darkMode ? <FaRegLightbulb className={"ml-10 text-4xl text-white cursor-pointer"} /> : <BsLightbulbOff className={"ml-10 text-4xl text-white cursor-pointer"} /> }
+                {darkMode ? <FaRegLightbulb className={"ml-10 text-4xl text-white cursor-pointer"} /> : <BsLightbulbOff className={"ml-10 text-3xl text-white cursor-pointer"} /> }
             </div>
 
             <article className={"flex space-x-5 md:space-x-0 mt-1 p-3 justify-end items-center"}>
