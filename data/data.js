@@ -1,7 +1,7 @@
 export const projects = [
     {
         id: 1,
-        img:"/images/coinVerse.png",
+        img:"/images/coinverse.png",
         link: "https://cryptoverse-sikal.vercel.app/"
     },
     {
