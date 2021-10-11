@@ -3,7 +3,7 @@ import codeSikal from "../public/images/codeSikal.svg";
 
 const About = () => {
     return (
-        <main className={"flex flex-col md:flex-row h-[81vh] "}>
+        <main className={"flex relative overflow-y-scroll flex-col md:flex-row h-[81vh] "}>
             {/*left*/}
             <section className={"hidden md:flex flex-1 flex items-center justify-center"}>
                 <div className={"w-[70%] h-[70%] relative"} >
@@ -13,7 +13,7 @@ const About = () => {
             {/*right*/}
             <section className={"md:flex-1 md:flex md:items-center md:justify-center"}>
                 {/*leftwrapper*/}
-                <article className={"md:p-[50px] px-[40px] space-y-2 mt-16 md:mt-0 md:space-y-5"}>
+                <article className={"md:p-[50px]  px-[40px] space-y-2 my-8 md:mt-0 md:space-y-5"}>
                     <h2 className={"text-gray-500 font-serif flex items-center"}><span className={"md:text-2xl dark:text-[#707493] font-bold text-4xl uppercase md:normal"}>About</span><span className={"font-bold text-4xl text-gray-600 dark:text-[#e3e3e5] md:text-6xl"}>ME</span></h2>
                     {/* eslint-disable-next-line react/no-unescaped-entities */}
                     <p className={"about-p"}>Hi, I'm Abiola, a <span className={"text-[#57a3e4] font-bold"}>Full-Stack Web Developer</span>. I use an artistic approach to

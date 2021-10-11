@@ -5,7 +5,7 @@ const Title = ({title}) => {
         <Head>
             <title>{title}</title>
             <meta name="description" content="Sikal's personal portfolio website"/>
-            <link rel="icon" href="/favicon.png"/>
+            <link rel="icon" href="/codesikal.png"/>
         </Head>
     );
 };
