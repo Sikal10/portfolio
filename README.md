@@ -1,7 +1,5 @@
 ##  Sikal's Profile Website
 
-## Major Issue
-
 ## Built with
 ### Frontend
 
@@ -9,6 +7,6 @@
 - [Next JS](https://nextjs.org/) - React Framework.
 - [Particles.js](https://github.com/Wufe/react-particles-js) - Particles.js for React.
 - [Tailwindcss](https://tailwindcss.com/) - CSS Framework.
-- [EmailJs](https://www.emailjs.com/) - Mail sending API.
+- [EmailJs](https://www.emailjs.com/) - Client Side Mail sending API.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
