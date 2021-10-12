@@ -26,6 +26,11 @@ export const projects = [
     },
     {
         id: 6,
+        img:"/images/amazon.png",
+        link: "https://amazon-nu-tan.vercel.app/"
+    },
+    {
+        id: 7,
         img:"/images/devspace.png",
         link: "https://devblog-iota.vercel.app/blog"
     }
