@@ -23,7 +23,7 @@ const Home = () => {
                                     Developer</p>
                                 <p className={"h-[50px] text-2xl font-bold flex items-center text-purple-500"}>UI/UX
                                     Designer</p>
-                                <p className={"h-[50px]text-2xl font-bold flex items-center text-purple-500"}>Writer</p>
+                                <p className={"h-[50px] text-2xl font-bold flex items-center text-purple-500"}>Writer</p>
                             </div>
                         </section>
                         {/* eslint-disable-next-line react/no-unescaped-entities */}
