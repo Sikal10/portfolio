@@ -38,5 +38,10 @@ export const projects = [
         id: 8,
         img:"/images/instagram.png",
         link: "https://instagram-clone-k0ond2dkr-sikal10.vercel.app"
+    },
+    {
+        id: 9,
+        img:"/images/bike-landing-page.png",
+        link: "https://bike-landingpage.vercel.app"
     }
 ]
