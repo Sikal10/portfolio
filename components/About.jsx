@@ -29,7 +29,7 @@ const About = () => {
                     <p className={"about-p"}>I'm Interested in the entire <span className={"text-[#57a3e4] font-bold"}> Frontend</span>  and
                         <span className={"text-[#57a3e4] font-bold"}> Backend</span>  spectrum and working on ambitious projects with positive people.
                         I admire simple content structure, clean design models, and <span className={"text-[#57a3e4] font-bold"}> responsive</span>  interactions.
-                        I enjoy coding from scratch and enjoy bringing concepts and designs to life in the <span className={"text-[#57a3e4] font-bold"}> browser</span> .</p>
+                        I enjoy coding from scratch and enjoy bringing concepts and designs to life in the <span className={"text-[#57a3e4] font-bold"}> browser</span>.</p>
 
                     <p className={"md:w-[70%] dark:text-[#707493] text-gray-500 md:text-md"}>I enjoy transforming ideas into reality using code. I am passionate about using Javascript and Animation Libraries to create awesome user experiences.</p>
                 </article>
